@@ -1,0 +1,22 @@
+.banner {
+	background-image: url(../../images/laundry.jpg);
+	color: white;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+	height: 70px;
+}
+
+.banner h1 {
+	font-size: 70px;
+}
+
+
+.banner ul {
+	font-weight: lighter;
+	color: white;
+}
+
+.banner li {
+	color: white;
+}
